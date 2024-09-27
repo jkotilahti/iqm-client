@@ -16,6 +16,3 @@ test_report.xml
 /dist/
 /sdist/
 /docs/api/
-
-# Exclude from gh-pages
-.doctrees
