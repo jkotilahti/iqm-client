@@ -5,6 +5,8 @@ IQM client
 :Date: |today|
 :Source Code: `<https://github.com/iqm-finland/iqm-client>`_
 
+(NOTE: this is a test fork of the actual iqm-client repository)
+
 Client-side library for connecting to an `IQM <https://meetiqm.com/>`_ quantum computer.
 
 Contents
